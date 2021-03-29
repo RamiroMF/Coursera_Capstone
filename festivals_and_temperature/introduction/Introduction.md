@@ -5,4 +5,4 @@ When warmer temperatures and longer days arrive, one of the highlights of this s
 Are you thinking about creating a new open-air festival? This analysis might help you decide.
 
 
-
+![alt text](map.png "cities")
